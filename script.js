@@ -16,11 +16,4 @@ console.log('hello');
 
 
 
-console.log("newly added") 
-
-//update  
-
-//git add . or git add filename
-//git commit -m "message"
-//git push -u origin main 
-
+console.log("newly added")
